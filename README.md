@@ -3,4 +3,4 @@
 
 # Методы
 ## host:port/get - получение хранилища в JSON-формате
-## host:port/set/:thumpprint - установка параметра ответом будет {state: "written"}
+## host:port/set/:thumbprint - установка параметра ответом будет {state: "written"}
